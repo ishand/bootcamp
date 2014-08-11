@@ -1,0 +1,70 @@
+    1  git checkout master
+    2  cd
+    3  cd poetry
+    4  git checkout master
+    5  ls 
+    6  cat favorite_poem.txt
+    7  git status
+    8  git -m fs
+    9  --version
+   10  git --help
+   11  git add -m "why not"
+   12  git lot
+   13  git log
+   14  git branch feeling-crazy
+   15  git branch
+   16  git crayy
+   17  git log
+   18  git branch cheddar
+   19  git log
+   20  git branch feeling-crazy
+   21  git checkout feeling-crazy
+   22  git log
+   23  git checkout master
+   24  git commit
+   25  git add poem.txt
+   26  git add favorite_poem.txt
+   27  git status
+   28  git comit -a -a "third line"
+   29  git commit -a -m "third line"
+   30  git log --oneline
+   31  git commit -m "why not"
+   32  git commit -oneline
+   33  git log --oneline
+   34  ls
+   35  git checkout feeling-crazy
+   36  git merge master
+   37  git log --oneline
+   38  git checkout master
+   39  git log --oneline --graph
+   40  nano favorite_poem.txt
+   41  git commit
+   42  git checkout feeling-crazy
+   43  git merge
+   44  git merge master
+   45  git merge feeling-crazy
+   46  git commit -am
+   47  git commit -am "hey hey"
+   48  git merge master
+   49  git commit -m "hey hey"
+   50  git add poem.txt
+   51  git merge master
+   52  git merge feeling-crazy
+   53  git merge master
+   54  git checkout master
+   55  git merge feeling-crazy
+   56  git log
+   57  git commit -m "updated"
+   58  git merge feeling-crazy
+   59  git merge master
+   60  git checkout feeling-crazy
+   61  git merge master
+   62  git merge feeling-crazy
+   63  git checkout master
+   64  git merge master
+   65  git merge feeling-crazy
+   66  git commit -am "hey ho"
+   67  git merge feeling-crazy
+   68  git log --oneline --graph --decorate
+   69  git log --oneline --graph
+   70  history > see.txt
